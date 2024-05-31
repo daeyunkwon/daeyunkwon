@@ -1,5 +1,6 @@
 ## 권대윤
-###### 안녕하세요. 저는 현재 SeSAC 영등포 캠퍼스에서 멋진 분들과 함께 iOS 개발자로 성장하기 위해 노력하고 있습니다.
+
+###### Hello. I am currently striving to grow as an iOS developer alongside wonderful individuals at the SeSAC Yeongdeungpo campus.
 
 
 <br>
@@ -26,8 +27,9 @@
 
 
 
-<img width="60" height="60" alt="image" src="https://github.com/daeyunkwon/daeyunkwon/assets/54786464/a8a1a759-5146-4455-82c8-fd190ac3638d">
-<img width="50" height="50" alt="image" src="https://github.com/daeyunkwon/daeyunkwon/assets/54786464/cdfc5cda-0a73-4b63-93f9-5f3697a4c75d">
+
+<img width="50" height="50" alt="image" src="https://github.com/daeyunkwon/daeyunkwon/assets/54786464/bf812664-3e72-4cc3-b9fd-da172a804fe0">
+<img width="50" height="50" alt="image" src="https://github.com/daeyunkwon/daeyunkwon/assets/54786464/0e1afc2a-5cdf-4ea9-90c8-9cb631954f48">
 
 
 
