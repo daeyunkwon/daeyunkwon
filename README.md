@@ -20,7 +20,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/daeyunkwon"
-  width="600"
+  width="450"
   height="300"
 />
 </a>
