@@ -1,6 +1,7 @@
-## 권대윤
+## Daeyun Kwon
 
-###### Hello. I am currently striving to grow as an iOS developer alongside wonderful individuals at the SeSAC Yeongdeungpo campus.
+- ###### I'm an iOS developer dedicated to understanding services from the user's perspective.
+- ###### Slow to grow, but finding joy in the journey of growth.
 
 
 <br>
@@ -8,22 +9,6 @@
 <!-- 백준 티어  -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgusdl200)](https://solved.ac/ehgusdl200/)
 
-
-<!-- 기술스택 로고  -->
-![ios](https://img.shields.io/badge/ios-000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
-![swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-00A4FD.svg?&style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-
-<!-- 동물 친구들  -->
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/daeyunkwon"
-  width="450"
-  height="300"
-/>
-</a>
 
 <br>
 
