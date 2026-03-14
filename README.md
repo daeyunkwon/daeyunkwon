@@ -12,11 +12,12 @@
 <!-- 백준 티어  -->
 
 
-
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgusdl200)](https://solved.ac/ehgusdl200/)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgusdl200" width="100">
 -->
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgusdl200" width="220">
+
 
 
 <br>
